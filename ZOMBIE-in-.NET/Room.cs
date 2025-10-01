@@ -11,13 +11,21 @@ public class Room
         this.currentZombies = 0;
     }
 
-    public bool IsFull()
+    public bool IsFull(bool v)
     {
         if (capacity <= 0)
         {
             return true;
         }
         return false;
+    }
+
+    public void AddZombie(Zombie zombie)
+    {
+        if (!IsFull(true))
+        {
+            currentZombies++;
+        }
     }
 
 
