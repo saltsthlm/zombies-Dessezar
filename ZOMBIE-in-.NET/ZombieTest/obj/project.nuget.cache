@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "uR5p2GM9mEE=",
+  "dgSpecHash": "jRQYWUKP8d0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Crist\\zombies-Dessezar\\ZOMBIE-in-.NET\\ZOMBIE-in-.NET.csproj",
+  "projectFilePath": "C:\\Users\\Crist\\zombies-Dessezar\\ZOMBIE-in-.NET\\ZombieTest\\ZombieTest.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Crist\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\Crist\\.nuget\\packages\\microsoft.codecoverage\\17.14.1\\microsoft.codecoverage.17.14.1.nupkg.sha512",
     "C:\\Users\\Crist\\.nuget\\packages\\microsoft.net.test.sdk\\17.14.1\\microsoft.net.test.sdk.17.14.1.nupkg.sha512",
     "C:\\Users\\Crist\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.14.1\\microsoft.testplatform.objectmodel.17.14.1.nupkg.sha512",

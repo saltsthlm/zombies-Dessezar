@@ -13,9 +13,13 @@ public class Room
 
     public bool IsFull()
     {
-        return currentZombies >= capacity;
+        if (capacity <= 0)
+        {
+            return true;
+        }
+        return false;
     }
 
-    
+
 
 }
