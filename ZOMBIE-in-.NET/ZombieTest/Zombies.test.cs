@@ -18,4 +18,14 @@ public class ZombiesTest
         //Assert
         Assert.False(result);
     }
+
+    [Fact]
+    public void room_with_no_capacity_cannot_fit_any_zombies()
+    {
+        // Given
+    
+        // When
+    
+        // Then
+    }
 }
