@@ -1,4 +1,5 @@
 ﻿using Xunit;
+using ZOMBIE_in_.NET;
 
 namespace ZombieTest;
 
@@ -6,16 +7,15 @@ public class ZombiesTest
 
 {
     [Fact]
-    public void TestName()
+    public void Empty_room_that_fits_one_zombie_is_not_full()
     {
-        // Given
-    
-        // When
-    
-        // Then
-    }
-    public void Test1()
-    {
+        //Arrange
+        var room = new Room(1);
 
+        //Act
+        var result = room.IsFull();
+
+        //Assert
+        Assert.False(result);
     }
 }

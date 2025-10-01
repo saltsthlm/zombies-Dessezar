@@ -51,7 +51,7 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "microsoft.net.test.sdk": {
+            "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.14.1, )"
             },
