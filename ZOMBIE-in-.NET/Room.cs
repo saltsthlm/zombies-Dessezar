@@ -3,7 +3,7 @@
 public class Room
 {
     private int capacity;
-    private int currentZombies;
+    public int currentZombies;
 
     public Room(int capacity)
     {

@@ -37,6 +37,7 @@ public class ZombiesTest
     {
         //Arrange
         var room = new Room(1);
+        Assert.False(room.IsFull(false));
 
         //Act
         var result = room.IsFull(true);
@@ -44,6 +45,6 @@ public class ZombiesTest
 
         //Assert
         Assert.True(result);
-        Assert.Equal(1, room);
+        Assert.Equal(1, room.currentZombies);
     }
 }

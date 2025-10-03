@@ -1,0 +1,6 @@
+C:\Users\Crist\zombies-Dessezar\ZOMBIE-in-.NET\ZombieTest\obj\Debug\net9.0\ZombieTest.csproj.AssemblyReference.cache
+C:\Users\Crist\zombies-Dessezar\ZOMBIE-in-.NET\ZombieTest\obj\Debug\net9.0\ZombieTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Crist\zombies-Dessezar\ZOMBIE-in-.NET\ZombieTest\obj\Debug\net9.0\ZombieTest.AssemblyInfoInputs.cache
+C:\Users\Crist\zombies-Dessezar\ZOMBIE-in-.NET\ZombieTest\obj\Debug\net9.0\ZombieTest.AssemblyInfo.cs
+C:\Users\Crist\zombies-Dessezar\ZOMBIE-in-.NET\ZombieTest\obj\Debug\net9.0\ZombieTest.csproj.CoreCompileInputs.cache
+C:\Users\Crist\zombies-Dessezar\ZOMBIE-in-.NET\ZombieTest\obj\Debug\net9.0\ZombieTest.sourcelink.json
